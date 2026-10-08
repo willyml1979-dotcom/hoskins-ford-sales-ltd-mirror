@@ -1,6 +1,6 @@
 {
   "dealership": "Hoskins Ford Sales Ltd",
-  "generated_at": "2026-09-26T09:57:53",
+  "generated_at": "2026-10-08T14:37:56",
   "vehicle_count": 76,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
@@ -19,7 +19,9 @@
       "year": 2015,
       "make": "GMC",
       "model": "Sierra 3500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2015 GMC Sierra 3500 ",
@@ -35,12 +37,15 @@
       "year": 2015,
       "make": "GMC",
       "model": "Sierra 3500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2022 Ford Maverick XLTin Smithers",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "XLTin Smithers",
       "url": "https://willyml1979-dotcom.github.io/hoskins-ford-sales-ltd-mirror/used/87d5f3d7954e.html",
       "source_url": "https://www.hoskinsford.com/used/2022-Ford-Maverick-id14340354.html",
       "dealer_url": "https://www.hoskinsford.com/used/2022-Ford-Maverick-id14340354.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -50,8 +55,10 @@
       "odometer_km": 79452,
       "year": 2022,
       "make": "Ford",
-      "model": "Maverick XLTin Smithers",
-      "condition": "used"
+      "model": "Maverick",
+      "condition": "used",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2022 Ford Maverick ",
@@ -67,7 +74,9 @@
       "year": 2022,
       "make": "Ford",
       "model": "Maverick",
-      "condition": "used"
+      "condition": "used",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2022 Ford Maverick ",
@@ -83,7 +92,9 @@
       "year": 2022,
       "make": "Ford",
       "model": "Maverick",
-      "condition": "used"
+      "condition": "used",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2022 Ford Maverick ",
@@ -99,7 +110,9 @@
       "year": 2022,
       "make": "Ford",
       "model": "Maverick",
-      "condition": "new"
+      "condition": "new",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2022 Ford Maverick ",
@@ -115,12 +128,15 @@
       "year": 2022,
       "make": "Ford",
       "model": "Maverick",
-      "condition": "new"
+      "condition": "new",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2023 Ford Edge SELin Smithers",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "SELin Smithers",
       "url": "https://willyml1979-dotcom.github.io/hoskins-ford-sales-ltd-mirror/used/d36b267edfd8.html",
       "source_url": "https://www.hoskinsford.com/used/2023-Ford-Edge-id12105411.html",
       "dealer_url": "https://www.hoskinsford.com/used/2023-Ford-Edge-id12105411.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -130,8 +146,10 @@
       "odometer_km": 55337,
       "year": 2023,
       "make": "Ford",
-      "model": "Edge SELin Smithers",
-      "condition": "used"
+      "model": "Edge",
+      "condition": "used",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2023 Ford Edge ",
@@ -147,7 +165,9 @@
       "year": 2023,
       "make": "Ford",
       "model": "Edge",
-      "condition": "used"
+      "condition": "used",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2023 Ford Edge ",
@@ -163,12 +183,15 @@
       "year": 2023,
       "make": "Ford",
       "model": "Edge",
-      "condition": "new"
+      "condition": "new",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2025 Ford Bronco Badlandsin Smithers",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Badlandsin Smithers",
       "url": "https://willyml1979-dotcom.github.io/hoskins-ford-sales-ltd-mirror/new/d1b1337f4b6e.html",
       "source_url": "https://www.hoskinsford.com/new/inventory/2025-Ford-Bronco-id12709691.html",
       "dealer_url": "https://www.hoskinsford.com/new/inventory/2025-Ford-Bronco-id12709691.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -177,13 +200,16 @@
       "price_currency": "CAD",
       "year": 2025,
       "make": "Ford",
-      "model": "Bronco Badlandsin Smithers",
-      "condition": "new"
+      "model": "Bronco",
+      "condition": "new",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2025 Ford Bronco Sport Badlandsin Smithers",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Badlandsin Smithers",
       "url": "https://willyml1979-dotcom.github.io/hoskins-ford-sales-ltd-mirror/new/38e52f5191b0.html",
       "source_url": "https://www.hoskinsford.com/new/inventory/2025-Ford-Bronco_Sport-id13204791.html",
       "dealer_url": "https://www.hoskinsford.com/new/inventory/2025-Ford-Bronco_Sport-id13204791.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -192,13 +218,16 @@
       "price_currency": "CAD",
       "year": 2025,
       "make": "Ford",
-      "model": "Bronco Sport Badlandsin Smithers",
-      "condition": "new"
+      "model": "Bronco Sport",
+      "condition": "new",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2025 Ford Escape 4dr Phev Fwdin Smithers",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Phev Fwdin Smithers",
       "url": "https://willyml1979-dotcom.github.io/hoskins-ford-sales-ltd-mirror/new/a7b3fcbc0555.html",
       "source_url": "https://www.hoskinsford.com/new/inventory/2025-Ford-Escape-id12690352.html",
       "dealer_url": "https://www.hoskinsford.com/new/inventory/2025-Ford-Escape-id12690352.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -207,13 +236,16 @@
       "price_currency": "CAD",
       "year": 2025,
       "make": "Ford",
-      "model": "Escape 4dr Phev Fwdin Smithers",
-      "condition": "new"
+      "model": "Escape",
+      "condition": "new",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2025 Ford Explorer St 4wdin Smithers",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "St 4wdin Smithers",
       "url": "https://willyml1979-dotcom.github.io/hoskins-ford-sales-ltd-mirror/new/18ebf1daf9c9.html",
       "source_url": "https://www.hoskinsford.com/new/inventory/2025-Ford-Explorer-id12989013.html",
       "dealer_url": "https://www.hoskinsford.com/new/inventory/2025-Ford-Explorer-id12989013.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -222,13 +254,16 @@
       "price_currency": "CAD",
       "year": 2025,
       "make": "Ford",
-      "model": "Explorer St 4wdin Smithers",
-      "condition": "new"
+      "model": "Explorer",
+      "condition": "new",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2025 Ford F-150 XLTin Smithers",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "XLTin Smithers",
       "url": "https://willyml1979-dotcom.github.io/hoskins-ford-sales-ltd-mirror/new/51147d099a77.html",
       "source_url": "https://www.hoskinsford.com/new/inventory/2025-Ford-F_150-id14043500.html",
       "dealer_url": "https://www.hoskinsford.com/new/inventory/2025-Ford-F_150-id14043500.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -237,13 +272,16 @@
       "price_currency": "CAD",
       "year": 2025,
       "make": "Ford",
-      "model": "F-150 XLTin Smithers",
-      "condition": "new"
+      "model": "F-150",
+      "condition": "new",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2025 Ford Ranger XLTin Smithers",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "XLTin Smithers",
       "url": "https://willyml1979-dotcom.github.io/hoskins-ford-sales-ltd-mirror/new/85abbfba9cc5.html",
       "source_url": "https://www.hoskinsford.com/new/inventory/2025-Ford-Ranger-id13033327.html",
       "dealer_url": "https://www.hoskinsford.com/new/inventory/2025-Ford-Ranger-id13033327.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -252,8 +290,10 @@
       "price_currency": "CAD",
       "year": 2025,
       "make": "Ford",
-      "model": "Ranger XLTin Smithers",
-      "condition": "new"
+      "model": "Ranger",
+      "condition": "new",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Bronco ",
@@ -269,7 +309,9 @@
       "year": 2026,
       "make": "Ford",
       "model": "Bronco",
-      "condition": "used"
+      "condition": "used",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Bronco Sport ",
@@ -285,7 +327,9 @@
       "year": 2026,
       "make": "Ford",
       "model": "Bronco Sport",
-      "condition": "used"
+      "condition": "used",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Escapein Smithers",
@@ -300,12 +344,15 @@
       "year": 2026,
       "make": "Ford",
       "model": "Escapein Smithers",
-      "condition": "used"
+      "condition": "used",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Escape Hybridin Smithers",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Hybridin Smithers",
       "url": "https://willyml1979-dotcom.github.io/hoskins-ford-sales-ltd-mirror/used/f3991644eb7b.html",
       "source_url": "https://www.hoskinsford.com/new/2026-Ford-Escape_Hybrid.html",
       "dealer_url": "https://www.hoskinsford.com/new/2026-Ford-Escape_Hybrid.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -314,13 +361,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "Escape Hybridin Smithers",
-      "condition": "used"
+      "model": "Escape",
+      "condition": "used",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Escape PHEVin Smithers",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "PHEVin Smithers",
       "url": "https://willyml1979-dotcom.github.io/hoskins-ford-sales-ltd-mirror/used/a82de117faba.html",
       "source_url": "https://www.hoskinsford.com/new/2026-Ford-Escape_PHEV.html",
       "dealer_url": "https://www.hoskinsford.com/new/2026-Ford-Escape_PHEV.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -329,8 +379,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "Escape PHEVin Smithers",
-      "condition": "used"
+      "model": "Escape",
+      "condition": "used",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Expeditionin Smithers",
@@ -345,7 +397,9 @@
       "year": 2026,
       "make": "Ford",
       "model": "Expeditionin Smithers",
-      "condition": "used"
+      "condition": "used",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Explorer ",
@@ -361,7 +415,9 @@
       "year": 2026,
       "make": "Ford",
       "model": "Explorer",
-      "condition": "used"
+      "condition": "used",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2026 Ford F-150 ",
@@ -377,7 +433,9 @@
       "year": 2026,
       "make": "Ford",
       "model": "F-150",
-      "condition": "used"
+      "condition": "used",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Maverick ",
@@ -393,7 +451,9 @@
       "year": 2026,
       "make": "Ford",
       "model": "Maverick",
-      "condition": "used"
+      "condition": "used",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Mustangin Smithers",
@@ -408,12 +468,15 @@
       "year": 2026,
       "make": "Ford",
       "model": "Mustangin Smithers",
-      "condition": "used"
+      "condition": "used",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Mustang Convertiblein Smithers",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Convertiblein Smithers",
       "url": "https://willyml1979-dotcom.github.io/hoskins-ford-sales-ltd-mirror/used/12ae6396802a.html",
       "source_url": "https://www.hoskinsford.com/new/2026-Ford-Mustang_Convertible.html",
       "dealer_url": "https://www.hoskinsford.com/new/2026-Ford-Mustang_Convertible.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -422,8 +485,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "Mustang Convertiblein Smithers",
-      "condition": "used"
+      "model": "Mustang",
+      "condition": "used",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Ranger ",
@@ -439,7 +504,9 @@
       "year": 2026,
       "make": "Ford",
       "model": "Ranger",
-      "condition": "used"
+      "condition": "used",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2026 Ford F-350 ",
@@ -455,7 +522,9 @@
       "year": 2026,
       "make": "Ford",
       "model": "F-350",
-      "condition": "used"
+      "condition": "used",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Ranger ",
@@ -471,7 +540,9 @@
       "year": 2026,
       "make": "Ford",
       "model": "Ranger",
-      "condition": "used"
+      "condition": "used",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Bronco ",
@@ -487,7 +558,9 @@
       "year": 2026,
       "make": "Ford",
       "model": "Bronco",
-      "condition": "new"
+      "condition": "new",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Bronco Sport ",
@@ -503,7 +576,9 @@
       "year": 2026,
       "make": "Ford",
       "model": "Bronco Sport",
-      "condition": "new"
+      "condition": "new",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Escapein Smithers",
@@ -518,12 +593,15 @@
       "year": 2026,
       "make": "Ford",
       "model": "Escapein Smithers",
-      "condition": "new"
+      "condition": "new",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Escape Hybridin Smithers",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Hybridin Smithers",
       "url": "https://willyml1979-dotcom.github.io/hoskins-ford-sales-ltd-mirror/new/f3991644eb7b.html",
       "source_url": "https://www.hoskinsford.com/new/2026-Ford-Escape_Hybrid.html",
       "dealer_url": "https://www.hoskinsford.com/new/2026-Ford-Escape_Hybrid.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -532,13 +610,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "Escape Hybridin Smithers",
-      "condition": "new"
+      "model": "Escape",
+      "condition": "new",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Escape PHEVin Smithers",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "PHEVin Smithers",
       "url": "https://willyml1979-dotcom.github.io/hoskins-ford-sales-ltd-mirror/new/a82de117faba.html",
       "source_url": "https://www.hoskinsford.com/new/2026-Ford-Escape_PHEV.html",
       "dealer_url": "https://www.hoskinsford.com/new/2026-Ford-Escape_PHEV.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -547,8 +628,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "Escape PHEVin Smithers",
-      "condition": "new"
+      "model": "Escape",
+      "condition": "new",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Expeditionin Smithers",
@@ -563,7 +646,9 @@
       "year": 2026,
       "make": "Ford",
       "model": "Expeditionin Smithers",
-      "condition": "new"
+      "condition": "new",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Explorer ",
@@ -579,7 +664,9 @@
       "year": 2026,
       "make": "Ford",
       "model": "Explorer",
-      "condition": "new"
+      "condition": "new",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2026 Ford F-150 ",
@@ -595,7 +682,9 @@
       "year": 2026,
       "make": "Ford",
       "model": "F-150",
-      "condition": "new"
+      "condition": "new",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Maverick ",
@@ -611,7 +700,9 @@
       "year": 2026,
       "make": "Ford",
       "model": "Maverick",
-      "condition": "new"
+      "condition": "new",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Mustangin Smithers",
@@ -626,12 +717,15 @@
       "year": 2026,
       "make": "Ford",
       "model": "Mustangin Smithers",
-      "condition": "new"
+      "condition": "new",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Mustang Convertiblein Smithers",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Convertiblein Smithers",
       "url": "https://willyml1979-dotcom.github.io/hoskins-ford-sales-ltd-mirror/new/12ae6396802a.html",
       "source_url": "https://www.hoskinsford.com/new/2026-Ford-Mustang_Convertible.html",
       "dealer_url": "https://www.hoskinsford.com/new/2026-Ford-Mustang_Convertible.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -640,8 +734,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "Mustang Convertiblein Smithers",
-      "condition": "new"
+      "model": "Mustang",
+      "condition": "new",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Ranger ",
@@ -657,7 +753,9 @@
       "year": 2026,
       "make": "Ford",
       "model": "Ranger",
-      "condition": "new"
+      "condition": "new",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2026 Ford F-350 ",
@@ -673,12 +771,15 @@
       "year": 2026,
       "make": "Ford",
       "model": "F-350",
-      "condition": "new"
+      "condition": "new",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Super Duty F-450 DRWin Smithers",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "F-450 DRWin Smithers",
       "url": "https://willyml1979-dotcom.github.io/hoskins-ford-sales-ltd-mirror/new/d170d6f424c4.html",
       "source_url": "https://www.hoskinsford.com/new/2026-Ford-Super_Duty_F_450_DRW.html",
       "dealer_url": "https://www.hoskinsford.com/new/2026-Ford-Super_Duty_F_450_DRW.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -687,13 +788,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "Super Duty F-450 DRWin Smithers",
-      "condition": "new"
+      "model": "Super Duty",
+      "condition": "new",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Bronco Big Bendin Smithers",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Big Bendin Smithers",
       "url": "https://willyml1979-dotcom.github.io/hoskins-ford-sales-ltd-mirror/new/1a57883da8c4.html",
       "source_url": "https://www.hoskinsford.com/new/inventory/2026-Ford-Bronco-id14043503.html",
       "dealer_url": "https://www.hoskinsford.com/new/inventory/2026-Ford-Bronco-id14043503.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -702,13 +806,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "Bronco Big Bendin Smithers",
-      "condition": "new"
+      "model": "Bronco",
+      "condition": "new",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Bronco Big Bend 4 Door 4x4in Smithers",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Big Bend 4 Door 4x4in Smithers",
       "url": "https://willyml1979-dotcom.github.io/hoskins-ford-sales-ltd-mirror/new/dbd2a6dc37bf.html",
       "source_url": "https://www.hoskinsford.com/new/inventory/2026-Ford-Bronco-id14333778.html",
       "dealer_url": "https://www.hoskinsford.com/new/inventory/2026-Ford-Bronco-id14333778.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -717,13 +824,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "Bronco Big Bend 4 Door 4x4in Smithers",
-      "condition": "new"
+      "model": "Bronco",
+      "condition": "new",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Bronco Sport Big Bend 4x4in Smithers",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Big Bend 4x4in Smithers",
       "url": "https://willyml1979-dotcom.github.io/hoskins-ford-sales-ltd-mirror/new/7bf100b35eec.html",
       "source_url": "https://www.hoskinsford.com/new/inventory/2026-Ford-Bronco_Sport-id13608147.html",
       "dealer_url": "https://www.hoskinsford.com/new/inventory/2026-Ford-Bronco_Sport-id13608147.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -732,13 +842,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "Bronco Sport Big Bend 4x4in Smithers",
-      "condition": "new"
+      "model": "Bronco Sport",
+      "condition": "new",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Bronco Sport Outer Banks 4x4in Smithers",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Outer Banks 4x4in Smithers",
       "url": "https://willyml1979-dotcom.github.io/hoskins-ford-sales-ltd-mirror/new/f0179eff5309.html",
       "source_url": "https://www.hoskinsford.com/new/inventory/2026-Ford-Bronco_Sport-id13922963.html",
       "dealer_url": "https://www.hoskinsford.com/new/inventory/2026-Ford-Bronco_Sport-id13922963.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -747,13 +860,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "Bronco Sport Outer Banks 4x4in Smithers",
-      "condition": "new"
+      "model": "Bronco Sport",
+      "condition": "new",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Bronco Sport Outer Banks 4x4in Smithers",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Outer Banks 4x4in Smithers",
       "url": "https://willyml1979-dotcom.github.io/hoskins-ford-sales-ltd-mirror/new/e5267a4facd9.html",
       "source_url": "https://www.hoskinsford.com/new/inventory/2026-Ford-Bronco_Sport-id14043501.html",
       "dealer_url": "https://www.hoskinsford.com/new/inventory/2026-Ford-Bronco_Sport-id14043501.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -762,13 +878,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "Bronco Sport Outer Banks 4x4in Smithers",
-      "condition": "new"
+      "model": "Bronco Sport",
+      "condition": "new",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Bronco Sport Outer Banks 4x4in Smithers",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Outer Banks 4x4in Smithers",
       "url": "https://willyml1979-dotcom.github.io/hoskins-ford-sales-ltd-mirror/new/3e595f2e3e82.html",
       "source_url": "https://www.hoskinsford.com/new/inventory/2026-Ford-Bronco_Sport-id14084329.html",
       "dealer_url": "https://www.hoskinsford.com/new/inventory/2026-Ford-Bronco_Sport-id14084329.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -777,13 +896,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "Bronco Sport Outer Banks 4x4in Smithers",
-      "condition": "new"
+      "model": "Bronco Sport",
+      "condition": "new",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Bronco Sport Outer Banks 4x4in Smithers",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Outer Banks 4x4in Smithers",
       "url": "https://willyml1979-dotcom.github.io/hoskins-ford-sales-ltd-mirror/new/f152aebda862.html",
       "source_url": "https://www.hoskinsford.com/new/inventory/2026-Ford-Bronco_Sport-id14210465.html",
       "dealer_url": "https://www.hoskinsford.com/new/inventory/2026-Ford-Bronco_Sport-id14210465.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -792,13 +914,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "Bronco Sport Outer Banks 4x4in Smithers",
-      "condition": "new"
+      "model": "Bronco Sport",
+      "condition": "new",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Bronco Sport Outer Banks 4x4in Smithers",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Outer Banks 4x4in Smithers",
       "url": "https://willyml1979-dotcom.github.io/hoskins-ford-sales-ltd-mirror/new/3c33c8928097.html",
       "source_url": "https://www.hoskinsford.com/new/inventory/2026-Ford-Bronco_Sport-id14359304.html",
       "dealer_url": "https://www.hoskinsford.com/new/inventory/2026-Ford-Bronco_Sport-id14359304.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -807,13 +932,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "Bronco Sport Outer Banks 4x4in Smithers",
-      "condition": "new"
+      "model": "Bronco Sport",
+      "condition": "new",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Explorer St-Linein Smithers",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "St-Linein Smithers",
       "url": "https://willyml1979-dotcom.github.io/hoskins-ford-sales-ltd-mirror/new/416bee23919a.html",
       "source_url": "https://www.hoskinsford.com/new/inventory/2026-Ford-Explorer-id13796884.html",
       "dealer_url": "https://www.hoskinsford.com/new/inventory/2026-Ford-Explorer-id13796884.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -822,13 +950,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "Explorer St-Linein Smithers",
-      "condition": "new"
+      "model": "Explorer",
+      "condition": "new",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Explorer St 4wdin Smithers",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "St 4wdin Smithers",
       "url": "https://willyml1979-dotcom.github.io/hoskins-ford-sales-ltd-mirror/new/6ff12b31602a.html",
       "source_url": "https://www.hoskinsford.com/new/inventory/2026-Ford-Explorer-id14398544.html",
       "dealer_url": "https://www.hoskinsford.com/new/inventory/2026-Ford-Explorer-id14398544.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -837,13 +968,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "Explorer St 4wdin Smithers",
-      "condition": "new"
+      "model": "Explorer",
+      "condition": "new",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2026 Ford F-150 4x4 Supercrew-145in Smithers",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "145in Smithers",
       "url": "https://willyml1979-dotcom.github.io/hoskins-ford-sales-ltd-mirror/new/bbf19b473d8b.html",
       "source_url": "https://www.hoskinsford.com/new/inventory/2026-Ford-F_150-id13802342.html",
       "dealer_url": "https://www.hoskinsford.com/new/inventory/2026-Ford-F_150-id13802342.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -852,13 +986,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "F-150 4x4 Supercrew-145in Smithers",
-      "condition": "new"
+      "model": "F-150",
+      "condition": "new",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2026 Ford F-150 4x4 Supercrew-157in Smithers",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "157in Smithers",
       "url": "https://willyml1979-dotcom.github.io/hoskins-ford-sales-ltd-mirror/new/172bc68aad2d.html",
       "source_url": "https://www.hoskinsford.com/new/inventory/2026-Ford-F_150-id14115692.html",
       "dealer_url": "https://www.hoskinsford.com/new/inventory/2026-Ford-F_150-id14115692.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -867,8 +1004,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "F-150 4x4 Supercrew-157in Smithers",
-      "condition": "new"
+      "model": "F-150",
+      "condition": "new",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2026 Ford F-150 4x4 Supercrew - 145in Smithers",
@@ -883,12 +1022,15 @@
       "year": 2026,
       "make": "Ford",
       "model": "F-150 4x4 Supercrew - 145in Smithers",
-      "condition": "new"
+      "condition": "new",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2026 Ford F-150 XLTin Smithers",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "XLTin Smithers",
       "url": "https://willyml1979-dotcom.github.io/hoskins-ford-sales-ltd-mirror/new/bf86b4e70713.html",
       "source_url": "https://www.hoskinsford.com/new/inventory/2026-Ford-F_150-id14398542.html",
       "dealer_url": "https://www.hoskinsford.com/new/inventory/2026-Ford-F_150-id14398542.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -897,13 +1039,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "F-150 XLTin Smithers",
-      "condition": "new"
+      "model": "F-150",
+      "condition": "new",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2026 Ford F-150 XLTin Smithers",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "XLTin Smithers",
       "url": "https://willyml1979-dotcom.github.io/hoskins-ford-sales-ltd-mirror/new/f97caacced99.html",
       "source_url": "https://www.hoskinsford.com/new/inventory/2026-Ford-F_150-id14414268.html",
       "dealer_url": "https://www.hoskinsford.com/new/inventory/2026-Ford-F_150-id14414268.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -912,13 +1057,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "F-150 XLTin Smithers",
-      "condition": "new"
+      "model": "F-150",
+      "condition": "new",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2026 Ford F-150 4x4 Supercrew-157in Smithers",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "157in Smithers",
       "url": "https://willyml1979-dotcom.github.io/hoskins-ford-sales-ltd-mirror/new/40170757a2b3.html",
       "source_url": "https://www.hoskinsford.com/new/inventory/2026-Ford-F_150-id14419529.html",
       "dealer_url": "https://www.hoskinsford.com/new/inventory/2026-Ford-F_150-id14419529.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -927,13 +1075,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "F-150 4x4 Supercrew-157in Smithers",
-      "condition": "new"
+      "model": "F-150",
+      "condition": "new",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2026 Ford F-150 4x4 Supercrew-157in Smithers",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "157in Smithers",
       "url": "https://willyml1979-dotcom.github.io/hoskins-ford-sales-ltd-mirror/new/5fce2e45ab27.html",
       "source_url": "https://www.hoskinsford.com/new/inventory/2026-Ford-F_150-id14419530.html",
       "dealer_url": "https://www.hoskinsford.com/new/inventory/2026-Ford-F_150-id14419530.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -942,13 +1093,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "F-150 4x4 Supercrew-157in Smithers",
-      "condition": "new"
+      "model": "F-150",
+      "condition": "new",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2026 Ford F-150 XLTin Smithers",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "XLTin Smithers",
       "url": "https://willyml1979-dotcom.github.io/hoskins-ford-sales-ltd-mirror/new/8a9d8a356d43.html",
       "source_url": "https://www.hoskinsford.com/new/inventory/2026-Ford-F_150-id14433335.html",
       "dealer_url": "https://www.hoskinsford.com/new/inventory/2026-Ford-F_150-id14433335.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -957,13 +1111,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "F-150 XLTin Smithers",
-      "condition": "new"
+      "model": "F-150",
+      "condition": "new",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2026 Ford F-350 4x4 Crew Cab Pickupin Smithers",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Pickupin Smithers",
       "url": "https://willyml1979-dotcom.github.io/hoskins-ford-sales-ltd-mirror/new/bc1f7a02acac.html",
       "source_url": "https://www.hoskinsford.com/new/inventory/2026-Ford-F_350-id14084328.html",
       "dealer_url": "https://www.hoskinsford.com/new/inventory/2026-Ford-F_350-id14084328.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -972,13 +1129,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "F-350 4x4 Crew Cab Pickupin Smithers",
-      "condition": "new"
+      "model": "F-350",
+      "condition": "new",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2026 Ford F-350 4x4 Crew Cab Pickupin Smithers",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Pickupin Smithers",
       "url": "https://willyml1979-dotcom.github.io/hoskins-ford-sales-ltd-mirror/new/6ec35de080d2.html",
       "source_url": "https://www.hoskinsford.com/new/inventory/2026-Ford-F_350-id14140613.html",
       "dealer_url": "https://www.hoskinsford.com/new/inventory/2026-Ford-F_350-id14140613.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -987,13 +1147,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "F-350 4x4 Crew Cab Pickupin Smithers",
-      "condition": "new"
+      "model": "F-350",
+      "condition": "new",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2026 Ford F-350 4x4 Crew Cab Pickupin Smithers",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Pickupin Smithers",
       "url": "https://willyml1979-dotcom.github.io/hoskins-ford-sales-ltd-mirror/new/603fbc111fa9.html",
       "source_url": "https://www.hoskinsford.com/new/inventory/2026-Ford-F_350-id14199747.html",
       "dealer_url": "https://www.hoskinsford.com/new/inventory/2026-Ford-F_350-id14199747.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1002,13 +1165,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "F-350 4x4 Crew Cab Pickupin Smithers",
-      "condition": "new"
+      "model": "F-350",
+      "condition": "new",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2026 Ford F-350 4x4 Crew Cab Pickupin Smithers",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Pickupin Smithers",
       "url": "https://willyml1979-dotcom.github.io/hoskins-ford-sales-ltd-mirror/new/8d79016908f7.html",
       "source_url": "https://www.hoskinsford.com/new/inventory/2026-Ford-F_350-id14272457.html",
       "dealer_url": "https://www.hoskinsford.com/new/inventory/2026-Ford-F_350-id14272457.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1017,13 +1183,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "F-350 4x4 Crew Cab Pickupin Smithers",
-      "condition": "new"
+      "model": "F-350",
+      "condition": "new",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Ranger 4x4 Crw Cab Xltin Smithers",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Crw Xltin Smithers",
       "url": "https://willyml1979-dotcom.github.io/hoskins-ford-sales-ltd-mirror/new/7290194d6f40.html",
       "source_url": "https://www.hoskinsford.com/new/inventory/2026-Ford-Ranger-id13802343.html",
       "dealer_url": "https://www.hoskinsford.com/new/inventory/2026-Ford-Ranger-id13802343.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1032,13 +1201,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "Ranger 4x4 Crw Cab Xltin Smithers",
-      "condition": "new"
+      "model": "Ranger",
+      "condition": "new",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Ranger Raptorin Smithers",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Raptorin Smithers",
       "url": "https://willyml1979-dotcom.github.io/hoskins-ford-sales-ltd-mirror/new/2b56f19b9179.html",
       "source_url": "https://www.hoskinsford.com/new/inventory/2026-Ford-Ranger-id14398543.html",
       "dealer_url": "https://www.hoskinsford.com/new/inventory/2026-Ford-Ranger-id14398543.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1047,13 +1219,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "Ranger Raptorin Smithers",
-      "condition": "new"
+      "model": "Ranger",
+      "condition": "new",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Ranger Lariatin Smithers",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Lariatin Smithers",
       "url": "https://willyml1979-dotcom.github.io/hoskins-ford-sales-ltd-mirror/new/79eb3d65405d.html",
       "source_url": "https://www.hoskinsford.com/new/inventory/2026-Ford-Ranger-id14432358.html",
       "dealer_url": "https://www.hoskinsford.com/new/inventory/2026-Ford-Ranger-id14432358.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1062,8 +1237,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "Ranger Lariatin Smithers",
-      "condition": "new"
+      "model": "Ranger",
+      "condition": "new",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2027 Ford Explorer ",
@@ -1079,12 +1256,15 @@
       "year": 2027,
       "make": "Ford",
       "model": "Explorer",
-      "condition": "used"
+      "condition": "used",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2027 Ford Super Duty F-450 DRWin Smithers",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "F-450 DRWin Smithers",
       "url": "https://willyml1979-dotcom.github.io/hoskins-ford-sales-ltd-mirror/used/77555575375e.html",
       "source_url": "https://www.hoskinsford.com/new/2027-Ford-Super_Duty_F_450_DRW.html",
       "dealer_url": "https://www.hoskinsford.com/new/2027-Ford-Super_Duty_F_450_DRW.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1093,8 +1273,10 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Ford",
-      "model": "Super Duty F-450 DRWin Smithers",
-      "condition": "used"
+      "model": "Super Duty",
+      "condition": "used",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2027 Ford Explorer ",
@@ -1110,12 +1292,15 @@
       "year": 2027,
       "make": "Ford",
       "model": "Explorer",
-      "condition": "new"
+      "condition": "new",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2027 Ford Super Duty F-350 DRWin Smithers",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "F-350 DRWin Smithers",
       "url": "https://willyml1979-dotcom.github.io/hoskins-ford-sales-ltd-mirror/new/f268929c6cbc.html",
       "source_url": "https://www.hoskinsford.com/new/2027-Ford-Super_Duty_F_350_DRW.html",
       "dealer_url": "https://www.hoskinsford.com/new/2027-Ford-Super_Duty_F_350_DRW.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1124,13 +1309,16 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Ford",
-      "model": "Super Duty F-350 DRWin Smithers",
-      "condition": "new"
+      "model": "Super Duty",
+      "condition": "new",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2027 Ford Super Duty F-350 SRWin Smithers",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "F-350 SRWin Smithers",
       "url": "https://willyml1979-dotcom.github.io/hoskins-ford-sales-ltd-mirror/new/35d32804101f.html",
       "source_url": "https://www.hoskinsford.com/new/2027-Ford-Super_Duty_F_350_SRW.html",
       "dealer_url": "https://www.hoskinsford.com/new/2027-Ford-Super_Duty_F_350_SRW.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1139,13 +1327,16 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Ford",
-      "model": "Super Duty F-350 SRWin Smithers",
-      "condition": "new"
+      "model": "Super Duty",
+      "condition": "new",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2027 Ford Super Duty F-450 DRWin Smithers",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "F-450 DRWin Smithers",
       "url": "https://willyml1979-dotcom.github.io/hoskins-ford-sales-ltd-mirror/new/77555575375e.html",
       "source_url": "https://www.hoskinsford.com/new/2027-Ford-Super_Duty_F_450_DRW.html",
       "dealer_url": "https://www.hoskinsford.com/new/2027-Ford-Super_Duty_F_450_DRW.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1154,13 +1345,16 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Ford",
-      "model": "Super Duty F-450 DRWin Smithers",
-      "condition": "new"
+      "model": "Super Duty",
+      "condition": "new",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2027 Ford Explorer Activein Smithers",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Activein Smithers",
       "url": "https://willyml1979-dotcom.github.io/hoskins-ford-sales-ltd-mirror/new/77b8ce68c9b9.html",
       "source_url": "https://www.hoskinsford.com/new/inventory/2027-Ford-Explorer-id14386842.html",
       "dealer_url": "https://www.hoskinsford.com/new/inventory/2027-Ford-Explorer-id14386842.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1169,8 +1363,10 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Ford",
-      "model": "Explorer Activein Smithers",
-      "condition": "new"
+      "model": "Explorer",
+      "condition": "new",
+      "city": "Smithers",
+      "province": "BC"
     }
   ]
 }
