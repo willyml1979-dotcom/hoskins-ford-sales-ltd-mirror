@@ -1,7 +1,7 @@
 {
   "dealership": "Hoskins Ford Sales Ltd",
-  "generated_at": "2026-10-25T18:36:10",
-  "vehicle_count": 83,
+  "generated_at": "2026-10-26T03:28:03",
+  "vehicle_count": 81,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -350,27 +350,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2023 Ford Super Duty F-350 SRW Lariatin Smithers",
-      "url": "https://willyml1979-dotcom.github.io/hoskins-ford-sales-ltd-mirror/used/c3c4bd8da28c.html",
-      "year": 2023,
-      "make": "Ford",
-      "model": "Super Duty",
-      "condition": "used",
-      "price": 78900.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Ford Super Duty F-350 SRW ",
-      "vin": "1FT8W3BTXPED55197",
-      "url": "https://willyml1979-dotcom.github.io/hoskins-ford-sales-ltd-mirror/used/6fb1f919fef6.html",
-      "year": 2023,
-      "make": "Ford",
-      "model": "Super Duty",
-      "condition": "used",
-      "price": 78900.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2023 Ford Edge ",
       "vin": "2FMPK4J9XPBA35114",
       "url": "https://willyml1979-dotcom.github.io/hoskins-ford-sales-ltd-mirror/new/a80fba3f3ef6.html",
@@ -400,7 +379,7 @@
       "make": "Ford",
       "model": "Bronco Sport",
       "condition": "used",
-      "price": 43025.0,
+      "price": 46775.0,
       "price_currency": "CAD"
     },
     {
