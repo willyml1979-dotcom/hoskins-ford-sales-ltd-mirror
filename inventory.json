@@ -1,7 +1,7 @@
 {
   "dealership": "Hoskins Ford Sales Ltd",
-  "generated_at": "2026-10-25T18:29:42",
-  "vehicle_count": 84,
+  "generated_at": "2026-10-25T18:36:10",
+  "vehicle_count": 83,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -24,6 +24,13 @@
       "url": "https://willyml1979-dotcom.github.io/hoskins-ford-sales-ltd-mirror/new/a7b3fcbc0555.html",
       "condition": "new",
       "price": 36144.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2025 Ford Expedition Platinum Maxin Smithers",
+      "url": "https://willyml1979-dotcom.github.io/hoskins-ford-sales-ltd-mirror/new/0638ce0915d1.html",
+      "condition": "new",
+      "price": 114815.0,
       "price_currency": "CAD"
     },
     {
@@ -111,6 +118,48 @@
       "price_currency": "CAD"
     },
     {
+      "name": "New 2026 Ford F-150 4x4 Supercrew-145in Smithers",
+      "url": "https://willyml1979-dotcom.github.io/hoskins-ford-sales-ltd-mirror/new/bbf19b473d8b.html",
+      "condition": "new",
+      "price": 82110.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Ford F-150 4x4 Supercrew-157in Smithers",
+      "url": "https://willyml1979-dotcom.github.io/hoskins-ford-sales-ltd-mirror/new/172bc68aad2d.html",
+      "condition": "new",
+      "price": 87390.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Ford F-150 4x4 Supercrew - 145in Smithers",
+      "url": "https://willyml1979-dotcom.github.io/hoskins-ford-sales-ltd-mirror/new/6d071e081dbf.html",
+      "condition": "new",
+      "price": 68615.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Ford F-150 XLTin Smithers",
+      "url": "https://willyml1979-dotcom.github.io/hoskins-ford-sales-ltd-mirror/new/bf86b4e70713.html",
+      "condition": "new",
+      "price": 86585.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Ford F-150 4x4 Supercrew-157in Smithers",
+      "url": "https://willyml1979-dotcom.github.io/hoskins-ford-sales-ltd-mirror/new/40170757a2b3.html",
+      "condition": "new",
+      "price": 86875.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Ford F-150 4x4 Supercrew-157in Smithers",
+      "url": "https://willyml1979-dotcom.github.io/hoskins-ford-sales-ltd-mirror/new/5fce2e45ab27.html",
+      "condition": "new",
+      "price": 87325.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "New 2026 Ford F-150 4x4 Supercrew - 145in Smithers",
       "url": "https://willyml1979-dotcom.github.io/hoskins-ford-sales-ltd-mirror/new/5b7df292e32f.html",
       "condition": "new",
@@ -160,10 +209,38 @@
       "price_currency": "CAD"
     },
     {
+      "name": "New 2026 Ford F-350 4x4 Crew Cab Pickupin Smithers",
+      "url": "https://willyml1979-dotcom.github.io/hoskins-ford-sales-ltd-mirror/new/6ec35de080d2.html",
+      "condition": "new",
+      "price": 103219.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Ford F-350 4x4 Crew Cab Pickupin Smithers",
+      "url": "https://willyml1979-dotcom.github.io/hoskins-ford-sales-ltd-mirror/new/8d79016908f7.html",
+      "condition": "new",
+      "price": 124304.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "New 2026 Ford Maverick Lariatin Smithers",
       "url": "https://willyml1979-dotcom.github.io/hoskins-ford-sales-ltd-mirror/new/739d355741d5.html",
       "condition": "new",
       "price": 51595.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Ford Ranger 4x4 Crw Cab Xltin Smithers",
+      "url": "https://willyml1979-dotcom.github.io/hoskins-ford-sales-ltd-mirror/new/7290194d6f40.html",
+      "condition": "new",
+      "price": 55515.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Ford Ranger Raptorin Smithers",
+      "url": "https://willyml1979-dotcom.github.io/hoskins-ford-sales-ltd-mirror/new/2b56f19b9179.html",
+      "condition": "new",
+      "price": 85165.0,
       "price_currency": "CAD"
     },
     {
@@ -207,17 +284,6 @@
       "model": "Super Duty",
       "condition": "used",
       "price": 84900.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2022 Ford Maverick ",
-      "vin": "3FTTW8F90NRA11541",
-      "url": "https://willyml1979-dotcom.github.io/hoskins-ford-sales-ltd-mirror/new/0c0d1862079d.html",
-      "year": 2022,
-      "make": "Ford",
-      "model": "Maverick",
-      "condition": "new",
-      "price": 28900.0,
       "price_currency": "CAD"
     },
     {
@@ -313,16 +379,6 @@
       "model": "Edge",
       "condition": "new",
       "price": 33989.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Ford Expedition Platinum Maxin Smithers",
-      "url": "https://willyml1979-dotcom.github.io/hoskins-ford-sales-ltd-mirror/new/0638ce0915d1.html",
-      "year": 2025,
-      "make": "Ford",
-      "model": "Expedition",
-      "condition": "new",
-      "price": 114815.0,
       "price_currency": "CAD"
     },
     {
@@ -627,106 +683,6 @@
       "model": "Super Duty",
       "condition": "new",
       "price": 71210.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Ford F-150 4x4 Supercrew-145in Smithers",
-      "url": "https://willyml1979-dotcom.github.io/hoskins-ford-sales-ltd-mirror/new/bbf19b473d8b.html",
-      "year": 2026,
-      "make": "Ford",
-      "model": "F-150",
-      "condition": "new",
-      "price": 74110.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Ford F-150 4x4 Supercrew-157in Smithers",
-      "url": "https://willyml1979-dotcom.github.io/hoskins-ford-sales-ltd-mirror/new/172bc68aad2d.html",
-      "year": 2026,
-      "make": "Ford",
-      "model": "F-150",
-      "condition": "new",
-      "price": 79390.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Ford F-150 4x4 Supercrew - 145in Smithers",
-      "url": "https://willyml1979-dotcom.github.io/hoskins-ford-sales-ltd-mirror/new/6d071e081dbf.html",
-      "year": 2026,
-      "make": "Ford",
-      "model": "F-150 4x4 Supercrew - 145in Smithers",
-      "condition": "new",
-      "price": 61615.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Ford F-150 XLTin Smithers",
-      "url": "https://willyml1979-dotcom.github.io/hoskins-ford-sales-ltd-mirror/new/bf86b4e70713.html",
-      "year": 2026,
-      "make": "Ford",
-      "model": "F-150",
-      "condition": "new",
-      "price": 78585.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Ford F-150 4x4 Supercrew-157in Smithers",
-      "url": "https://willyml1979-dotcom.github.io/hoskins-ford-sales-ltd-mirror/new/40170757a2b3.html",
-      "year": 2026,
-      "make": "Ford",
-      "model": "F-150",
-      "condition": "new",
-      "price": 78875.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Ford F-150 4x4 Supercrew-157in Smithers",
-      "url": "https://willyml1979-dotcom.github.io/hoskins-ford-sales-ltd-mirror/new/5fce2e45ab27.html",
-      "year": 2026,
-      "make": "Ford",
-      "model": "F-150",
-      "condition": "new",
-      "price": 79325.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Ford F-350 4x4 Crew Cab Pickupin Smithers",
-      "url": "https://willyml1979-dotcom.github.io/hoskins-ford-sales-ltd-mirror/new/6ec35de080d2.html",
-      "year": 2026,
-      "make": "Ford",
-      "model": "F-350",
-      "condition": "new",
-      "price": 103219.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Ford F-350 4x4 Crew Cab Pickupin Smithers",
-      "url": "https://willyml1979-dotcom.github.io/hoskins-ford-sales-ltd-mirror/new/8d79016908f7.html",
-      "year": 2026,
-      "make": "Ford",
-      "model": "F-350",
-      "condition": "new",
-      "price": 124304.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Ford Ranger 4x4 Crw Cab Xltin Smithers",
-      "url": "https://willyml1979-dotcom.github.io/hoskins-ford-sales-ltd-mirror/new/7290194d6f40.html",
-      "year": 2026,
-      "make": "Ford",
-      "model": "Ranger",
-      "condition": "new",
-      "price": 55515.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Ford Ranger Raptorin Smithers",
-      "url": "https://willyml1979-dotcom.github.io/hoskins-ford-sales-ltd-mirror/new/2b56f19b9179.html",
-      "year": 2026,
-      "make": "Ford",
-      "model": "Ranger",
-      "condition": "new",
-      "price": 85165.0,
       "price_currency": "CAD"
     },
     {
