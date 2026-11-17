@@ -1,6 +1,6 @@
 {
   "dealership": "Hoskins Ford Sales Ltd",
-  "generated_at": "2026-11-16T19:56:31",
+  "generated_at": "2026-11-16T21:33:38",
   "vehicle_count": 88,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -214,6 +214,16 @@
       "model": "Bronco Sport",
       "condition": "new",
       "price": 54050.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2025 Ford Bronco Sport Badlands 4x4in Smithers",
+      "url": "https://willyml1979-dotcom.github.io/hoskins-ford-sales-ltd-mirror/new/4f11b7532510.html",
+      "year": 2025,
+      "make": "Ford",
+      "model": "Bronco Sport",
+      "condition": "new",
+      "price": 47481.0,
       "price_currency": "CAD"
     },
     {
@@ -494,14 +504,13 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Ford Ranger ",
-      "vin": "1FTER4HH2TLE13652",
+      "name": "2026 Ford Rangerin Smithers",
       "url": "https://willyml1979-dotcom.github.io/hoskins-ford-sales-ltd-mirror/new/88f558c9e260.html",
       "year": 2026,
       "make": "Ford",
-      "model": "Ranger",
+      "model": "Rangerin Smithers",
       "condition": "new",
-      "price": 55515.0,
+      "price": 45065.0,
       "price_currency": "CAD"
     },
     {
@@ -511,7 +520,7 @@
       "make": "Ford",
       "model": "Super Duty",
       "condition": "new",
-      "price": 60034.0,
+      "price": 64034.0,
       "price_currency": "CAD"
     },
     {
@@ -521,18 +530,17 @@
       "make": "Ford",
       "model": "Super Duty",
       "condition": "new",
-      "price": 63280.0,
+      "price": 67280.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Ford F-350 ",
-      "vin": "1FT8W3BM7TEE72870",
+      "name": "2026 Ford Super Duty F-350 SRWin Smithers",
       "url": "https://willyml1979-dotcom.github.io/hoskins-ford-sales-ltd-mirror/new/00377a005579.html",
       "year": 2026,
       "make": "Ford",
-      "model": "F-350",
+      "model": "Super Duty",
       "condition": "new",
-      "price": 127168.0,
+      "price": 121674.0,
       "price_currency": "CAD"
     },
     {
@@ -762,7 +770,7 @@
       "make": "Ford",
       "model": "F-350",
       "condition": "new",
-      "price": 124674.0,
+      "price": 121674.0,
       "price_currency": "CAD"
     },
     {
@@ -853,16 +861,6 @@
       "model": "Super Duty",
       "condition": "used",
       "price": 67534.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Ford Expeditionin Smithers",
-      "url": "https://willyml1979-dotcom.github.io/hoskins-ford-sales-ltd-mirror/new/a5699799f0e9.html",
-      "year": 2027,
-      "make": "Ford",
-      "model": "Expeditionin Smithers",
-      "condition": "new",
-      "price": 89295.0,
       "price_currency": "CAD"
     },
     {
