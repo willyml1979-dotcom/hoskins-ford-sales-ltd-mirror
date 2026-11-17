@@ -1,246 +1,43 @@
 {
   "dealership": "Hoskins Ford Sales Ltd",
-  "generated_at": "2026-10-26T03:48:48",
-  "vehicle_count": 81,
+  "generated_at": "2026-11-16T19:56:31",
+  "vehicle_count": 88,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
     {
-      "name": "New 2025 Ford Bronco Badlandsin Smithers",
-      "url": "https://willyml1979-dotcom.github.io/hoskins-ford-sales-ltd-mirror/new/d1b1337f4b6e.html",
-      "condition": "new",
-      "price": 81814.0,
+      "name": "Ford Bronco 2021 for salein Smithers",
+      "url": "https://willyml1979-dotcom.github.io/hoskins-ford-sales-ltd-mirror/used/a4fe0977c9f3.html",
+      "condition": "used",
+      "price": 42900.0,
       "price_currency": "CAD"
     },
     {
-      "name": "New 2025 Ford Bronco Sport Badlandsin Smithers",
-      "url": "https://willyml1979-dotcom.github.io/hoskins-ford-sales-ltd-mirror/new/38e52f5191b0.html",
-      "condition": "new",
-      "price": 54050.0,
+      "name": "Ford F-150 2023 for salein Smithers",
+      "url": "https://willyml1979-dotcom.github.io/hoskins-ford-sales-ltd-mirror/used/40d8761cb772.html",
+      "condition": "used",
+      "price": 54900.0,
       "price_currency": "CAD"
     },
     {
-      "name": "New 2025 Ford Escape 4dr Phev Fwdin Smithers",
-      "url": "https://willyml1979-dotcom.github.io/hoskins-ford-sales-ltd-mirror/new/a7b3fcbc0555.html",
-      "condition": "new",
-      "price": 36144.0,
+      "name": "Ford Bronco Sport 2024 for salein Smithers",
+      "url": "https://willyml1979-dotcom.github.io/hoskins-ford-sales-ltd-mirror/used/646ff581dfc4.html",
+      "condition": "used",
+      "price": 35900.0,
       "price_currency": "CAD"
     },
     {
-      "name": "New 2025 Ford Expedition Platinum Maxin Smithers",
-      "url": "https://willyml1979-dotcom.github.io/hoskins-ford-sales-ltd-mirror/new/0638ce0915d1.html",
-      "condition": "new",
-      "price": 114815.0,
+      "name": "Ford Edge 2024 for salein Smithers",
+      "url": "https://willyml1979-dotcom.github.io/hoskins-ford-sales-ltd-mirror/used/26369b07e582.html",
+      "condition": "used",
+      "price": 32900.0,
       "price_currency": "CAD"
     },
     {
-      "name": "New 2025 Ford Explorer St 4wdin Smithers",
-      "url": "https://willyml1979-dotcom.github.io/hoskins-ford-sales-ltd-mirror/new/18ebf1daf9c9.html",
-      "condition": "new",
-      "price": 68907.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2025 Ford F-150 XLTin Smithers",
-      "url": "https://willyml1979-dotcom.github.io/hoskins-ford-sales-ltd-mirror/new/51147d099a77.html",
-      "condition": "new",
-      "price": 75160.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2025 Ford Ranger XLTin Smithers",
-      "url": "https://willyml1979-dotcom.github.io/hoskins-ford-sales-ltd-mirror/new/85abbfba9cc5.html",
-      "condition": "new",
-      "price": 59170.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Ford Bronco Big Bendin Smithers",
-      "url": "https://willyml1979-dotcom.github.io/hoskins-ford-sales-ltd-mirror/new/1a57883da8c4.html",
-      "condition": "new",
-      "price": 66450.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Ford Bronco Big Bend 4 Door 4x4in Smithers",
-      "url": "https://willyml1979-dotcom.github.io/hoskins-ford-sales-ltd-mirror/new/dbd2a6dc37bf.html",
-      "condition": "new",
-      "price": 77755.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Ford Bronco Sport Big Bend 4x4in Smithers",
-      "url": "https://willyml1979-dotcom.github.io/hoskins-ford-sales-ltd-mirror/new/7bf100b35eec.html",
-      "condition": "new",
-      "price": 46775.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Ford Bronco Sport Outer Banks 4x4in Smithers",
-      "url": "https://willyml1979-dotcom.github.io/hoskins-ford-sales-ltd-mirror/new/f0179eff5309.html",
-      "condition": "new",
-      "price": 49440.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Ford Bronco Sport Outer Banks 4x4in Smithers",
-      "url": "https://willyml1979-dotcom.github.io/hoskins-ford-sales-ltd-mirror/new/e5267a4facd9.html",
-      "condition": "new",
-      "price": 48845.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Ford Bronco Sport Outer Banks 4x4in Smithers",
-      "url": "https://willyml1979-dotcom.github.io/hoskins-ford-sales-ltd-mirror/new/3e595f2e3e82.html",
-      "condition": "new",
-      "price": 49745.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Ford Bronco Sport Outer Banks 4x4in Smithers",
-      "url": "https://willyml1979-dotcom.github.io/hoskins-ford-sales-ltd-mirror/new/f152aebda862.html",
-      "condition": "new",
-      "price": 46740.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Ford Bronco Sport Outer Banks 4x4in Smithers",
-      "url": "https://willyml1979-dotcom.github.io/hoskins-ford-sales-ltd-mirror/new/3c33c8928097.html",
-      "condition": "new",
-      "price": 55075.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Ford Explorer St-Linein Smithers",
-      "url": "https://willyml1979-dotcom.github.io/hoskins-ford-sales-ltd-mirror/new/416bee23919a.html",
-      "condition": "new",
-      "price": 66245.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Ford F-150 4x4 Supercrew-145in Smithers",
-      "url": "https://willyml1979-dotcom.github.io/hoskins-ford-sales-ltd-mirror/new/bbf19b473d8b.html",
-      "condition": "new",
-      "price": 82110.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Ford F-150 4x4 Supercrew-157in Smithers",
-      "url": "https://willyml1979-dotcom.github.io/hoskins-ford-sales-ltd-mirror/new/172bc68aad2d.html",
-      "condition": "new",
-      "price": 87390.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Ford F-150 4x4 Supercrew - 145in Smithers",
-      "url": "https://willyml1979-dotcom.github.io/hoskins-ford-sales-ltd-mirror/new/6d071e081dbf.html",
-      "condition": "new",
-      "price": 68615.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Ford F-150 XLTin Smithers",
-      "url": "https://willyml1979-dotcom.github.io/hoskins-ford-sales-ltd-mirror/new/bf86b4e70713.html",
-      "condition": "new",
-      "price": 86585.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Ford F-150 4x4 Supercrew-157in Smithers",
-      "url": "https://willyml1979-dotcom.github.io/hoskins-ford-sales-ltd-mirror/new/40170757a2b3.html",
-      "condition": "new",
-      "price": 86875.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Ford F-150 4x4 Supercrew-157in Smithers",
-      "url": "https://willyml1979-dotcom.github.io/hoskins-ford-sales-ltd-mirror/new/5fce2e45ab27.html",
-      "condition": "new",
-      "price": 87325.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Ford F-150 4x4 Supercrew - 145in Smithers",
-      "url": "https://willyml1979-dotcom.github.io/hoskins-ford-sales-ltd-mirror/new/5b7df292e32f.html",
-      "condition": "new",
-      "price": 61615.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Ford F-150 4x4 Raptor Supercrewin Smithers",
-      "url": "https://willyml1979-dotcom.github.io/hoskins-ford-sales-ltd-mirror/new/4c3291444b28.html",
-      "condition": "new",
-      "price": 116420.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Ford F-150 Lariatin Smithers",
-      "url": "https://willyml1979-dotcom.github.io/hoskins-ford-sales-ltd-mirror/new/ee33577527b5.html",
-      "condition": "new",
-      "price": 98120.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Ford F-150 4x4 Supercrew-157in Smithers",
-      "url": "https://willyml1979-dotcom.github.io/hoskins-ford-sales-ltd-mirror/new/e53fb2fbc3ae.html",
-      "condition": "new",
-      "price": 84660.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Ford F-150 4x4 Supercrew-157in Smithers",
-      "url": "https://willyml1979-dotcom.github.io/hoskins-ford-sales-ltd-mirror/new/d3090253594c.html",
-      "condition": "new",
-      "price": 85360.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Ford F-150 XLTin Smithers",
-      "url": "https://willyml1979-dotcom.github.io/hoskins-ford-sales-ltd-mirror/new/31553beca674.html",
-      "condition": "new",
-      "price": 75810.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Ford F-350 4x4 Crew Cab Pickupin Smithers",
-      "url": "https://willyml1979-dotcom.github.io/hoskins-ford-sales-ltd-mirror/new/bc1f7a02acac.html",
-      "condition": "new",
-      "price": 124674.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Ford F-350 4x4 Crew Cab Pickupin Smithers",
-      "url": "https://willyml1979-dotcom.github.io/hoskins-ford-sales-ltd-mirror/new/6ec35de080d2.html",
-      "condition": "new",
-      "price": 103219.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Ford F-350 4x4 Crew Cab Pickupin Smithers",
-      "url": "https://willyml1979-dotcom.github.io/hoskins-ford-sales-ltd-mirror/new/8d79016908f7.html",
-      "condition": "new",
-      "price": 124304.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Ford Maverick Lariatin Smithers",
-      "url": "https://willyml1979-dotcom.github.io/hoskins-ford-sales-ltd-mirror/new/739d355741d5.html",
-      "condition": "new",
-      "price": 51595.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Ford Ranger 4x4 Crw Cab Xltin Smithers",
-      "url": "https://willyml1979-dotcom.github.io/hoskins-ford-sales-ltd-mirror/new/7290194d6f40.html",
-      "condition": "new",
-      "price": 55515.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Ford Ranger Raptorin Smithers",
-      "url": "https://willyml1979-dotcom.github.io/hoskins-ford-sales-ltd-mirror/new/2b56f19b9179.html",
-      "condition": "new",
-      "price": 85165.0,
+      "name": "Ford Escape 2025 for salein Smithers",
+      "url": "https://willyml1979-dotcom.github.io/hoskins-ford-sales-ltd-mirror/used/a99fd3088389.html",
+      "condition": "used",
+      "price": 29900.0,
       "price_currency": "CAD"
     },
     {
@@ -263,6 +60,16 @@
       "model": "Sierra 3500",
       "condition": "new",
       "price": 39900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2021 Ford Bronco 4 Door 4x4in Smithers",
+      "url": "https://willyml1979-dotcom.github.io/hoskins-ford-sales-ltd-mirror/used/6b4df511a9cd.html",
+      "year": 2021,
+      "make": "Ford",
+      "model": "Bronco",
+      "condition": "used",
+      "price": 42900.0,
       "price_currency": "CAD"
     },
     {
@@ -339,17 +146,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2023 Ford F-150 ",
-      "vin": "1FTFW1E88PKD15138",
-      "url": "https://willyml1979-dotcom.github.io/hoskins-ford-sales-ltd-mirror/used/40d8761cb772.html",
-      "year": 2023,
-      "make": "Ford",
-      "model": "F-150",
-      "condition": "used",
-      "price": 54900.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2023 Ford Edge ",
       "vin": "2FMPK4J9XPBA35114",
       "url": "https://willyml1979-dotcom.github.io/hoskins-ford-sales-ltd-mirror/new/a80fba3f3ef6.html",
@@ -358,6 +154,116 @@
       "model": "Edge",
       "condition": "new",
       "price": 33989.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2024 Ford Bronco Sport Outer Banks 4x4in Smithers",
+      "url": "https://willyml1979-dotcom.github.io/hoskins-ford-sales-ltd-mirror/used/78239d49b8ab.html",
+      "year": 2024,
+      "make": "Ford",
+      "model": "Bronco Sport",
+      "condition": "used",
+      "price": 35900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2024 Ford Edge Titaniumin Smithers",
+      "url": "https://willyml1979-dotcom.github.io/hoskins-ford-sales-ltd-mirror/used/adfb9d5fd4a4.html",
+      "year": 2024,
+      "make": "Ford",
+      "model": "Edge",
+      "condition": "used",
+      "price": 32900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2025 Ford Escape Activein Smithers",
+      "url": "https://willyml1979-dotcom.github.io/hoskins-ford-sales-ltd-mirror/used/b292df79f3a8.html",
+      "year": 2025,
+      "make": "Ford",
+      "model": "Escape",
+      "condition": "used",
+      "price": 29900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2025 Ford Escape Activein Smithers",
+      "url": "https://willyml1979-dotcom.github.io/hoskins-ford-sales-ltd-mirror/used/3120f90c6e8d.html",
+      "year": 2025,
+      "make": "Ford",
+      "model": "Escape",
+      "condition": "used",
+      "price": 29900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2025 Ford Bronco Badlandsin Smithers",
+      "url": "https://willyml1979-dotcom.github.io/hoskins-ford-sales-ltd-mirror/new/d1b1337f4b6e.html",
+      "year": 2025,
+      "make": "Ford",
+      "model": "Bronco",
+      "condition": "new",
+      "price": 81814.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2025 Ford Bronco Sport Badlandsin Smithers",
+      "url": "https://willyml1979-dotcom.github.io/hoskins-ford-sales-ltd-mirror/new/38e52f5191b0.html",
+      "year": 2025,
+      "make": "Ford",
+      "model": "Bronco Sport",
+      "condition": "new",
+      "price": 54050.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2025 Ford Escape 4dr Phev Fwdin Smithers",
+      "url": "https://willyml1979-dotcom.github.io/hoskins-ford-sales-ltd-mirror/new/a7b3fcbc0555.html",
+      "year": 2025,
+      "make": "Ford",
+      "model": "Escape",
+      "condition": "new",
+      "price": 36144.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2025 Ford Expedition Platinum Maxin Smithers",
+      "url": "https://willyml1979-dotcom.github.io/hoskins-ford-sales-ltd-mirror/new/0638ce0915d1.html",
+      "year": 2025,
+      "make": "Ford",
+      "model": "Expedition",
+      "condition": "new",
+      "price": 114815.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2025 Ford Explorer St 4wdin Smithers",
+      "url": "https://willyml1979-dotcom.github.io/hoskins-ford-sales-ltd-mirror/new/18ebf1daf9c9.html",
+      "year": 2025,
+      "make": "Ford",
+      "model": "Explorer",
+      "condition": "new",
+      "price": 68907.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2025 Ford F-150 XLTin Smithers",
+      "url": "https://willyml1979-dotcom.github.io/hoskins-ford-sales-ltd-mirror/new/51147d099a77.html",
+      "year": 2025,
+      "make": "Ford",
+      "model": "F-150",
+      "condition": "new",
+      "price": 75160.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2025 Ford Ranger XLTin Smithers",
+      "url": "https://willyml1979-dotcom.github.io/hoskins-ford-sales-ltd-mirror/new/85abbfba9cc5.html",
+      "year": 2025,
+      "make": "Ford",
+      "model": "Ranger",
+      "condition": "new",
+      "price": 59170.0,
       "price_currency": "CAD"
     },
     {
@@ -403,36 +309,33 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Ford Explorer ",
-      "vin": "1FMUK8KH5TGB05153",
+      "name": "2026 Ford Explorerin Smithers",
       "url": "https://willyml1979-dotcom.github.io/hoskins-ford-sales-ltd-mirror/used/02066a7fa408.html",
       "year": 2026,
       "make": "Ford",
-      "model": "Explorer",
+      "model": "Explorerin Smithers",
       "condition": "used",
-      "price": 66245.0,
+      "price": 51245.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Ford F-150 ",
-      "vin": "1FTFW3L83TKD65745",
+      "name": "2026 Ford F-150in Smithers",
       "url": "https://willyml1979-dotcom.github.io/hoskins-ford-sales-ltd-mirror/used/a2c02471dfbc.html",
       "year": 2026,
       "make": "Ford",
-      "model": "F-150",
+      "model": "F-150in Smithers",
       "condition": "used",
-      "price": 82110.0,
+      "price": 49485.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Ford Maverick ",
-      "vin": "3FTTW8SA2TRB59770",
+      "name": "2026 Ford Maverick Hybridin Smithers",
       "url": "https://willyml1979-dotcom.github.io/hoskins-ford-sales-ltd-mirror/used/a0f6c187a279.html",
       "year": 2026,
       "make": "Ford",
       "model": "Maverick",
       "condition": "used",
-      "price": 51595.0,
+      "price": 45995.0,
       "price_currency": "CAD"
     },
     {
@@ -466,45 +369,23 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Ford Ranger ",
-      "vin": "1FTER4HH2TLE13652",
+      "name": "2026 Ford Rangerin Smithers",
       "url": "https://willyml1979-dotcom.github.io/hoskins-ford-sales-ltd-mirror/used/88f558c9e260.html",
       "year": 2026,
       "make": "Ford",
-      "model": "Ranger",
+      "model": "Rangerin Smithers",
       "condition": "used",
-      "price": 55515.0,
+      "price": 45065.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Ford Super Duty F-250 SRWin Smithers",
-      "url": "https://willyml1979-dotcom.github.io/hoskins-ford-sales-ltd-mirror/used/f57f63964baf.html",
-      "year": 2026,
-      "make": "Ford",
-      "model": "Super Duty",
-      "condition": "used",
-      "price": 60034.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Ford Super Duty F-350 DRWin Smithers",
-      "url": "https://willyml1979-dotcom.github.io/hoskins-ford-sales-ltd-mirror/used/0e2a7f2e6ff5.html",
-      "year": 2026,
-      "make": "Ford",
-      "model": "Super Duty",
-      "condition": "used",
-      "price": 63280.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Ford F-350 ",
-      "vin": "1FT8W3BM7TEE72870",
+      "name": "2026 Ford Super Duty F-350 SRWin Smithers",
       "url": "https://willyml1979-dotcom.github.io/hoskins-ford-sales-ltd-mirror/used/00377a005579.html",
       "year": 2026,
       "make": "Ford",
-      "model": "F-350",
+      "model": "Super Duty",
       "condition": "used",
-      "price": 127168.0,
+      "price": 121674.0,
       "price_currency": "CAD"
     },
     {
@@ -662,6 +543,276 @@
       "model": "Super Duty",
       "condition": "new",
       "price": 71210.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Ford Bronco Big Bendin Smithers",
+      "url": "https://willyml1979-dotcom.github.io/hoskins-ford-sales-ltd-mirror/new/1a57883da8c4.html",
+      "year": 2026,
+      "make": "Ford",
+      "model": "Bronco",
+      "condition": "new",
+      "price": 66450.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Ford Bronco Big Bend 4 Door 4x4in Smithers",
+      "url": "https://willyml1979-dotcom.github.io/hoskins-ford-sales-ltd-mirror/new/dbd2a6dc37bf.html",
+      "year": 2026,
+      "make": "Ford",
+      "model": "Bronco",
+      "condition": "new",
+      "price": 77755.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Ford Bronco Sport Big Bend 4x4in Smithers",
+      "url": "https://willyml1979-dotcom.github.io/hoskins-ford-sales-ltd-mirror/new/7bf100b35eec.html",
+      "year": 2026,
+      "make": "Ford",
+      "model": "Bronco Sport",
+      "condition": "new",
+      "price": 46775.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Ford Bronco Sport Outer Banks 4x4in Smithers",
+      "url": "https://willyml1979-dotcom.github.io/hoskins-ford-sales-ltd-mirror/new/f0179eff5309.html",
+      "year": 2026,
+      "make": "Ford",
+      "model": "Bronco Sport",
+      "condition": "new",
+      "price": 49440.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Ford Bronco Sport Outer Banks 4x4in Smithers",
+      "url": "https://willyml1979-dotcom.github.io/hoskins-ford-sales-ltd-mirror/new/e5267a4facd9.html",
+      "year": 2026,
+      "make": "Ford",
+      "model": "Bronco Sport",
+      "condition": "new",
+      "price": 48845.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Ford Bronco Sport Outer Banks 4x4in Smithers",
+      "url": "https://willyml1979-dotcom.github.io/hoskins-ford-sales-ltd-mirror/new/3e595f2e3e82.html",
+      "year": 2026,
+      "make": "Ford",
+      "model": "Bronco Sport",
+      "condition": "new",
+      "price": 49745.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Ford Bronco Sport Outer Banks 4x4in Smithers",
+      "url": "https://willyml1979-dotcom.github.io/hoskins-ford-sales-ltd-mirror/new/f152aebda862.html",
+      "year": 2026,
+      "make": "Ford",
+      "model": "Bronco Sport",
+      "condition": "new",
+      "price": 46740.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Ford Bronco Sport Outer Banks 4x4in Smithers",
+      "url": "https://willyml1979-dotcom.github.io/hoskins-ford-sales-ltd-mirror/new/3c33c8928097.html",
+      "year": 2026,
+      "make": "Ford",
+      "model": "Bronco Sport",
+      "condition": "new",
+      "price": 55075.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Ford Explorer St-Linein Smithers",
+      "url": "https://willyml1979-dotcom.github.io/hoskins-ford-sales-ltd-mirror/new/416bee23919a.html",
+      "year": 2026,
+      "make": "Ford",
+      "model": "Explorer",
+      "condition": "new",
+      "price": 66245.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Ford F-150 4x4 Supercrew-145in Smithers",
+      "url": "https://willyml1979-dotcom.github.io/hoskins-ford-sales-ltd-mirror/new/bbf19b473d8b.html",
+      "year": 2026,
+      "make": "Ford",
+      "model": "F-150",
+      "condition": "new",
+      "price": 82110.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Ford F-150 4x4 Supercrew-157in Smithers",
+      "url": "https://willyml1979-dotcom.github.io/hoskins-ford-sales-ltd-mirror/new/172bc68aad2d.html",
+      "year": 2026,
+      "make": "Ford",
+      "model": "F-150",
+      "condition": "new",
+      "price": 87390.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Ford F-150 4x4 Supercrew - 145in Smithers",
+      "url": "https://willyml1979-dotcom.github.io/hoskins-ford-sales-ltd-mirror/new/6d071e081dbf.html",
+      "year": 2026,
+      "make": "Ford",
+      "model": "F-150 4x4 Supercrew - 145in Smithers",
+      "condition": "new",
+      "price": 68615.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Ford F-150 XLTin Smithers",
+      "url": "https://willyml1979-dotcom.github.io/hoskins-ford-sales-ltd-mirror/new/bf86b4e70713.html",
+      "year": 2026,
+      "make": "Ford",
+      "model": "F-150",
+      "condition": "new",
+      "price": 86585.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Ford F-150 4x4 Supercrew-157in Smithers",
+      "url": "https://willyml1979-dotcom.github.io/hoskins-ford-sales-ltd-mirror/new/40170757a2b3.html",
+      "year": 2026,
+      "make": "Ford",
+      "model": "F-150",
+      "condition": "new",
+      "price": 86875.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Ford F-150 4x4 Supercrew-157in Smithers",
+      "url": "https://willyml1979-dotcom.github.io/hoskins-ford-sales-ltd-mirror/new/5fce2e45ab27.html",
+      "year": 2026,
+      "make": "Ford",
+      "model": "F-150",
+      "condition": "new",
+      "price": 87325.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Ford F-150 4x4 Supercrew - 145in Smithers",
+      "url": "https://willyml1979-dotcom.github.io/hoskins-ford-sales-ltd-mirror/new/5b7df292e32f.html",
+      "year": 2026,
+      "make": "Ford",
+      "model": "F-150 4x4 Supercrew - 145in Smithers",
+      "condition": "new",
+      "price": 61615.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Ford F-150 4x4 Raptor Supercrewin Smithers",
+      "url": "https://willyml1979-dotcom.github.io/hoskins-ford-sales-ltd-mirror/new/4c3291444b28.html",
+      "year": 2026,
+      "make": "Ford",
+      "model": "F-150",
+      "condition": "new",
+      "price": 116420.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Ford F-150 Lariatin Smithers",
+      "url": "https://willyml1979-dotcom.github.io/hoskins-ford-sales-ltd-mirror/new/ee33577527b5.html",
+      "year": 2026,
+      "make": "Ford",
+      "model": "F-150",
+      "condition": "new",
+      "price": 98120.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Ford F-150 4x4 Supercrew-157in Smithers",
+      "url": "https://willyml1979-dotcom.github.io/hoskins-ford-sales-ltd-mirror/new/e53fb2fbc3ae.html",
+      "year": 2026,
+      "make": "Ford",
+      "model": "F-150",
+      "condition": "new",
+      "price": 84660.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Ford F-150 4x4 Supercrew-157in Smithers",
+      "url": "https://willyml1979-dotcom.github.io/hoskins-ford-sales-ltd-mirror/new/d3090253594c.html",
+      "year": 2026,
+      "make": "Ford",
+      "model": "F-150",
+      "condition": "new",
+      "price": 85360.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Ford F-150 XLTin Smithers",
+      "url": "https://willyml1979-dotcom.github.io/hoskins-ford-sales-ltd-mirror/new/31553beca674.html",
+      "year": 2026,
+      "make": "Ford",
+      "model": "F-150",
+      "condition": "new",
+      "price": 75810.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Ford F-350 4x4 Crew Cab Pickupin Smithers",
+      "url": "https://willyml1979-dotcom.github.io/hoskins-ford-sales-ltd-mirror/new/bc1f7a02acac.html",
+      "year": 2026,
+      "make": "Ford",
+      "model": "F-350",
+      "condition": "new",
+      "price": 124674.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Ford F-350 4x4 Crew Cab Pickupin Smithers",
+      "url": "https://willyml1979-dotcom.github.io/hoskins-ford-sales-ltd-mirror/new/6ec35de080d2.html",
+      "year": 2026,
+      "make": "Ford",
+      "model": "F-350",
+      "condition": "new",
+      "price": 103219.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Ford F-350 4x4 Crew Cab Pickupin Smithers",
+      "url": "https://willyml1979-dotcom.github.io/hoskins-ford-sales-ltd-mirror/new/8d79016908f7.html",
+      "year": 2026,
+      "make": "Ford",
+      "model": "F-350",
+      "condition": "new",
+      "price": 124304.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Ford Maverick Lariatin Smithers",
+      "url": "https://willyml1979-dotcom.github.io/hoskins-ford-sales-ltd-mirror/new/739d355741d5.html",
+      "year": 2026,
+      "make": "Ford",
+      "model": "Maverick",
+      "condition": "new",
+      "price": 51595.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Ford Ranger 4x4 Crw Cab Xltin Smithers",
+      "url": "https://willyml1979-dotcom.github.io/hoskins-ford-sales-ltd-mirror/new/7290194d6f40.html",
+      "year": 2026,
+      "make": "Ford",
+      "model": "Ranger",
+      "condition": "new",
+      "price": 55515.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Ford Ranger Raptorin Smithers",
+      "url": "https://willyml1979-dotcom.github.io/hoskins-ford-sales-ltd-mirror/new/2b56f19b9179.html",
+      "year": 2026,
+      "make": "Ford",
+      "model": "Ranger",
+      "condition": "new",
+      "price": 85165.0,
       "price_currency": "CAD"
     },
     {
