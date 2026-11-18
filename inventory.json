@@ -1,7 +1,7 @@
 {
   "dealership": "Hoskins Ford Sales Ltd",
-  "generated_at": "2026-11-18T13:31:07",
-  "vehicle_count": 90,
+  "generated_at": "2026-11-18T13:50:13",
+  "vehicle_count": 88,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -69,21 +69,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Ford Edge 2023 for salein Smithers",
+      "url": "https://willyml1979-dotcom.github.io/hoskins-ford-sales-ltd-mirror/new/a80fba3f3ef6.html",
+      "condition": "new",
+      "price": 31562.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "Used Vehicles under $30,000 for salein Smithers",
       "url": "https://willyml1979-dotcom.github.io/hoskins-ford-sales-ltd-mirror/new/c9ff73296258.html",
       "condition": "new",
       "price": 29900.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2015 GMC Sierra 3500 ",
-      "vin": "1GT424E8XFF599724",
-      "url": "https://willyml1979-dotcom.github.io/hoskins-ford-sales-ltd-mirror/new/6d021d8e3b91.html",
-      "year": 2015,
-      "make": "GMC",
-      "model": "Sierra 3500",
-      "condition": "new",
-      "price": 39900.0,
       "price_currency": "CAD"
     },
     {
@@ -134,17 +130,6 @@
       "model": "F-150",
       "condition": "used",
       "price": 54900.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Ford Edge ",
-      "vin": "2FMPK4J9XPBA35114",
-      "url": "https://willyml1979-dotcom.github.io/hoskins-ford-sales-ltd-mirror/new/a80fba3f3ef6.html",
-      "year": 2023,
-      "make": "Ford",
-      "model": "Edge",
-      "condition": "new",
-      "price": 33989.0,
       "price_currency": "CAD"
     },
     {
@@ -389,14 +374,13 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Ford Bronco Sport ",
-      "vin": "3FMCR9BN2TRE18575",
+      "name": "2026 Ford Bronco Sportin Smithers",
       "url": "https://willyml1979-dotcom.github.io/hoskins-ford-sales-ltd-mirror/new/3f915fbc3d20.html",
       "year": 2026,
       "make": "Ford",
-      "model": "Bronco Sport",
+      "model": "Bronco",
       "condition": "new",
-      "price": 46775.0,
+      "price": 38140.0,
       "price_currency": "CAD"
     },
     {
@@ -613,16 +597,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "New 2026 Ford Explorer St-Linein Smithers",
-      "url": "https://willyml1979-dotcom.github.io/hoskins-ford-sales-ltd-mirror/new/416bee23919a.html",
-      "year": 2026,
-      "make": "Ford",
-      "model": "Explorer",
-      "condition": "new",
-      "price": 66245.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "New 2026 Ford F-150 4x4 Supercrew-145in Smithers",
       "url": "https://willyml1979-dotcom.github.io/hoskins-ford-sales-ltd-mirror/new/bbf19b473d8b.html",
       "year": 2026,
@@ -649,7 +623,7 @@
       "make": "Ford",
       "model": "F-150 4x4 Supercrew - 145in Smithers",
       "condition": "new",
-      "price": 68615.0,
+      "price": 67865.0,
       "price_currency": "CAD"
     },
     {
@@ -659,7 +633,7 @@
       "make": "Ford",
       "model": "F-150",
       "condition": "new",
-      "price": 86585.0,
+      "price": 85835.0,
       "price_currency": "CAD"
     },
     {
@@ -669,7 +643,7 @@
       "make": "Ford",
       "model": "F-150",
       "condition": "new",
-      "price": 86875.0,
+      "price": 86125.0,
       "price_currency": "CAD"
     },
     {
@@ -679,7 +653,7 @@
       "make": "Ford",
       "model": "F-150",
       "condition": "new",
-      "price": 87325.0,
+      "price": 86575.0,
       "price_currency": "CAD"
     },
     {
@@ -759,7 +733,7 @@
       "make": "Ford",
       "model": "F-350",
       "condition": "new",
-      "price": 124304.0,
+      "price": 121304.0,
       "price_currency": "CAD"
     },
     {
@@ -789,7 +763,7 @@
       "make": "Ford",
       "model": "Ranger",
       "condition": "new",
-      "price": 55515.0,
+      "price": 54765.0,
       "price_currency": "CAD"
     },
     {
