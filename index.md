@@ -1,6 +1,6 @@
 # Hoskins Ford Sales Ltd
 
- dealership in Smithers. AI-readable inventory mirror, about 88 vehicles.
+ dealership in Smithers. AI-readable inventory mirror, about 87 vehicles.
 
 - Official website: https://www.hoskinsford.com/
 - Used vehicles: https://willyml1979-dotcom.github.io/hoskins-ford-sales-ltd-mirror/used/

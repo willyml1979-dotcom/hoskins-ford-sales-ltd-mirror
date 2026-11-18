@@ -1,7 +1,7 @@
 {
   "dealership": "Hoskins Ford Sales Ltd",
-  "generated_at": "2026-11-16T21:33:38",
-  "vehicle_count": 88,
+  "generated_at": "2026-11-17T18:42:37",
+  "vehicle_count": 87,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -10,6 +10,13 @@
       "url": "https://willyml1979-dotcom.github.io/hoskins-ford-sales-ltd-mirror/used/a4fe0977c9f3.html",
       "condition": "used",
       "price": 42900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Ford Expedition 2023 for salein Smithers",
+      "url": "https://willyml1979-dotcom.github.io/hoskins-ford-sales-ltd-mirror/used/64d5f7d57bb8.html",
+      "condition": "used",
+      "price": 62900.0,
       "price_currency": "CAD"
     },
     {
@@ -36,6 +43,13 @@
     {
       "name": "Ford Escape 2025 for salein Smithers",
       "url": "https://willyml1979-dotcom.github.io/hoskins-ford-sales-ltd-mirror/used/a99fd3088389.html",
+      "condition": "used",
+      "price": 29900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Used Vehicles under $30,000 for salein Smithers",
+      "url": "https://willyml1979-dotcom.github.io/hoskins-ford-sales-ltd-mirror/used/c9ff73296258.html",
       "condition": "used",
       "price": 29900.0,
       "price_currency": "CAD"
@@ -117,17 +131,6 @@
     {
       "name": "2023 Ford Expedition Platinum Maxin Smithers",
       "url": "https://willyml1979-dotcom.github.io/hoskins-ford-sales-ltd-mirror/used/45037f097537.html",
-      "year": 2023,
-      "make": "Ford",
-      "model": "Expedition",
-      "condition": "used",
-      "price": 62900.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Ford Expedition ",
-      "vin": "1FMJK1M83PEA49657",
-      "url": "https://willyml1979-dotcom.github.io/hoskins-ford-sales-ltd-mirror/used/64d5f7d57bb8.html",
       "year": 2023,
       "make": "Ford",
       "model": "Expedition",
@@ -824,43 +827,23 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Ford F-150in Smithers",
-      "url": "https://willyml1979-dotcom.github.io/hoskins-ford-sales-ltd-mirror/used/9b5a87655e48.html",
-      "year": 2027,
-      "make": "Ford",
-      "model": "F-150in Smithers",
-      "condition": "used",
-      "price": 54985.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Ford Super Duty F-250 SRWin Smithers",
-      "url": "https://willyml1979-dotcom.github.io/hoskins-ford-sales-ltd-mirror/used/f34b2f1e0ae9.html",
-      "year": 2027,
-      "make": "Ford",
-      "model": "Super Duty",
-      "condition": "used",
-      "price": 65034.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Ford Super Duty F-350 DRWin Smithers",
-      "url": "https://willyml1979-dotcom.github.io/hoskins-ford-sales-ltd-mirror/used/f268929c6cbc.html",
-      "year": 2027,
-      "make": "Ford",
-      "model": "Super Duty",
-      "condition": "used",
-      "price": 68280.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2027 Ford Super Duty F-350 SRWin Smithers",
       "url": "https://willyml1979-dotcom.github.io/hoskins-ford-sales-ltd-mirror/used/35d32804101f.html",
       "year": 2027,
       "make": "Ford",
       "model": "Super Duty",
       "condition": "used",
-      "price": 67534.0,
+      "price": 108604.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Ford Super Duty F-450 DRWin Smithers",
+      "url": "https://willyml1979-dotcom.github.io/hoskins-ford-sales-ltd-mirror/used/77555575375e.html",
+      "year": 2027,
+      "make": "Ford",
+      "model": "Super Duty",
+      "condition": "used",
+      "price": 71710.0,
       "price_currency": "CAD"
     },
     {
