@@ -1,7 +1,7 @@
 {
   "dealership": "Hoskins Ford Sales Ltd",
-  "generated_at": "2026-11-18T04:55:09",
-  "vehicle_count": 92,
+  "generated_at": "2026-11-18T05:18:19",
+  "vehicle_count": 90,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -195,16 +195,6 @@
       "model": "Bronco",
       "condition": "new",
       "price": 81814.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2025 Ford Bronco Sport Badlandsin Smithers",
-      "url": "https://willyml1979-dotcom.github.io/hoskins-ford-sales-ltd-mirror/new/38e52f5191b0.html",
-      "year": 2025,
-      "make": "Ford",
-      "model": "Bronco Sport",
-      "condition": "new",
-      "price": 54050.0,
       "price_currency": "CAD"
     },
     {
@@ -569,7 +559,7 @@
       "make": "Ford",
       "model": "Bronco Sport",
       "condition": "new",
-      "price": 46775.0,
+      "price": 46025.0,
       "price_currency": "CAD"
     },
     {
@@ -579,7 +569,7 @@
       "make": "Ford",
       "model": "Bronco Sport",
       "condition": "new",
-      "price": 49440.0,
+      "price": 48690.0,
       "price_currency": "CAD"
     },
     {
@@ -599,7 +589,7 @@
       "make": "Ford",
       "model": "Bronco Sport",
       "condition": "new",
-      "price": 49745.0,
+      "price": 48995.0,
       "price_currency": "CAD"
     },
     {
@@ -609,7 +599,7 @@
       "make": "Ford",
       "model": "Bronco Sport",
       "condition": "new",
-      "price": 46740.0,
+      "price": 45990.0,
       "price_currency": "CAD"
     },
     {
@@ -619,7 +609,7 @@
       "make": "Ford",
       "model": "Bronco Sport",
       "condition": "new",
-      "price": 55075.0,
+      "price": 54325.0,
       "price_currency": "CAD"
     },
     {
@@ -639,7 +629,7 @@
       "make": "Ford",
       "model": "F-150",
       "condition": "new",
-      "price": 82110.0,
+      "price": 81360.0,
       "price_currency": "CAD"
     },
     {
@@ -649,7 +639,7 @@
       "make": "Ford",
       "model": "F-150",
       "condition": "new",
-      "price": 87390.0,
+      "price": 86640.0,
       "price_currency": "CAD"
     },
     {
@@ -690,16 +680,6 @@
       "model": "F-150",
       "condition": "new",
       "price": 87325.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Ford F-150 4x4 Supercrew - 145in Smithers",
-      "url": "https://willyml1979-dotcom.github.io/hoskins-ford-sales-ltd-mirror/new/5b7df292e32f.html",
-      "year": 2026,
-      "make": "Ford",
-      "model": "F-150 4x4 Supercrew - 145in Smithers",
-      "condition": "new",
-      "price": 61615.0,
       "price_currency": "CAD"
     },
     {
